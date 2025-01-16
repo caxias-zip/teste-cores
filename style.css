@@ -1,0 +1,28 @@
+*{
+    font-size: 25px;
+    
+}
+
+h1{
+    background-color: orange;
+}
+
+h2{
+    background-color: rgb(175, 65, 193);
+}
+
+h3{
+    background-color: rgba(175, 65, 193, 0.3);
+}
+
+h4{
+    background-color: hsl(257, 30%, 43%);
+}
+
+h5{
+    background-color: hsla(257, 30%, 43%, 0.7);
+}
+
+h6{
+    background-color: #783525;
+}
