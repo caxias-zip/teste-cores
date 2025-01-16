@@ -5,6 +5,9 @@
 
 h1{
     background-color: orange;
+    padding: 70px;
+    border: 5px solid red;
+    margin: -8px;
 }
 
 h2{
@@ -17,12 +20,15 @@ h3{
 
 h4{
     background-color: hsl(257, 30%, 43%);
+    margin: 20px;
 }
 
 h5{
     background-color: hsla(257, 30%, 43%, 0.7);
+    border: 1px solid red;
 }
 
 h6{
     background-color: #783525;
+    padding: 10px;
 }
